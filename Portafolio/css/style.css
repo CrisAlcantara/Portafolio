@@ -1,0 +1,117 @@
+body{
+	
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, 'sans-serif'sans-serif;
+	font-size: 15px;
+	color: #000F56;
+	line-height: 1.8;
+	
+}
+
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+header{
+	background-color:#fff;
+}
+footer{
+	background-color: #005C97;
+	color: #FFFFFF;
+	padding: 20px 0;
+	text-align: center;
+	font-size: 16px;
+}
+#top-header{
+	background-image:url("../img/imagen11.jpeg");
+	background-size: cover;
+	padding: 18%;
+	text-align:center;
+}
+#top-header h1{ 
+	color:#fff;
+	font-weight: 800;
+	font-size: 60px;
+}
+
+
+#services h4 {
+	text-align: center;
+	font-size: 15px;
+	font-weight: 600;
+	color: #00487C;
+}
+#services p{ 
+	text-align: center;
+	color: #898989;
+	font-size: 13px;
+}
+.section{ 
+	padding: 5% 0;
+}
+
+.rounded-circle{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	background-color: transparent;
+	display: block;
+	margin: auto;
+	color: #0091E1;
+	font-size: 50px;
+	text-align: center;
+}
+
+.check{
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+	background-color: transparent;
+	display: block;
+	margin: auto;
+	color: #53c3c9;
+	font-size: 20px;
+	text-align: center;
+}
+
+#see {
+	background-color: #f7f7f7;
+	
+}
+
+#see h2 {
+	text-align: center;
+	font-size: 30px;
+	font-weight: 600;
+	color: #005A86;
+	padding-bottom: 2%;
+	
+}
+
+#see h4 {
+	text-align: center;
+	padding-top: 15%;
+	font-size: 15px;
+	font-weight: bold;
+	color: #00555C;
+}
+
+#see p {
+	text-align: center;
+	font-size: 12px;
+	text-align: center;
+	padding-bottom: 5%;
+	color: #898989;
+}
+
+#quote{
+	text-align: center;
+	background-image: url("../img/imagen10.jpeg");
+	background-size: cover;	
+}
+
+#quote h4{
+	color: #fff;
+	padding: 5% 0; 
+}
